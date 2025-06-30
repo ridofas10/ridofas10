@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋 I'm Ridofas!
 
-<!--
-**ridofas10/ridofas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm passionate about building apps, especially in:
+- 🎮 Game edukasi dan alat musik tradisional
+- 🎓 Sistem Pendukung Keputusan (SPK)
+- 🎓 Sistem Penjadwalan Tugas Akhir
+- 🎓 Sistem Manager File
+- 🎓 Sistem Absensi Berbasis Barcode
+- 💻 Aplikasi berbasis web dan mobile
 
-Here are some ideas to get you started:
+📫 Reach me on:
+- 📷 Instagram: https://www.instagram.com/ridofassandi10?igsh=N2R5NWI3bWhhMXly
+- ✉️ Email: ridofassandi10@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack:
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+![Rido's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridofast&show_icons=true&theme=tokyonight)
